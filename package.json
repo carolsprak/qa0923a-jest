@@ -1,0 +1,17 @@
+{
+  "name": "qa0923a-jest",
+  "version": "1.0.0",
+  "description": "Projeto Jest para aula da Ultima School",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "jest"
+  ],
+  "author": "Anne Rocha",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
