@@ -2,7 +2,7 @@ const {soma, subtracao, multiplicacao, divisao} = require('../src/calculadora');
 
 test('Testar a Função Somar ', () => {
   expect(soma(1, 2)).toBe(3); 
-  expect(soma("1", "2")).toBe("11");
+  expect(soma("1", "2")).toBe("12");
   expect(soma("1", -1)).toBe("1-1"); 
   expect(soma("1", 1)).toBe("11"); 
       
